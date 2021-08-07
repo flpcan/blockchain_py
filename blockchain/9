@@ -1,0 +1,9 @@
+{
+    "borrower": "felipe",
+    "lender": "ca",
+    "amount": "2",
+    "prev_block": {
+        "hash": "e39de1cdbc5297e7aa532c56fae8bc68",
+        "filename": "8"
+    }
+}
